@@ -1,3 +1,4 @@
+[![Build Status](https://eebaltikahqinfrastructure.visualstudio.com/DevOps%20test1/_apis/build/status/SergeyElchinsky.pipelines-java?branchName=master)](https://eebaltikahqinfrastructure.visualstudio.com/DevOps%20test1/_build/latest?definitionId=3&branchName=master)
 
 # Contributing
 
